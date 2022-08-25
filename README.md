@@ -18,7 +18,7 @@ PlatformDropdown(
 ```
 
 ## Android Dropdown
-![drop-down-list](https://github.com/Keshav3097/Flutter-Platform-Dropdown/blob/main/android.png)
+![drop-down-list](https://github.com/Keshav3097/flutter_platform_dropdown/blob/master/android.png)
 
 ## iOS Dropdown
-![drop-down-list](https://github.com/Keshav3097/Flutter-Platform-Dropdown/blob/main/ios.png)
+![drop-down-list](https://github.com/Keshav3097/flutter_platform_dropdown/blob/master/ios.png)

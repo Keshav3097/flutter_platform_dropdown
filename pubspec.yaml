@@ -1,6 +1,6 @@
 name: flutter_platform_dropdown
 description: Flutter platform dropdown package for android and iOS default behaviour
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/Keshav3097/flutter_platform_dropdown.git
 
 environment:
